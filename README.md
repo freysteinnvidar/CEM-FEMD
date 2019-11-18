@@ -1,4 +1,4 @@
 # CEM-FEM
-Assign3 \n \
-Function: plotfield.m has the plotting procedure \n \
+Assign3  \
+Function: plotfield.m has the plotting procedure \
 FEMpoisson.m is the FEM code provided
